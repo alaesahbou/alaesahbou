@@ -2,6 +2,38 @@
 
 I'm a passionate software engineer and computer science student based in Morocco. I love to code and I'm constantly learning new technologies to improve my skills. 
 
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I'm most comfortable with at the moment:
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&color=informational&logo=tailwind-css)
+![](https://img.shields.io/badge/Code-Prisma-informational?style=flat&color=informational&logo=prisma)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongodb)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational&logo=c%2B%2B)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node-dot-js)
+![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&color=success&logo=mongodb)
+![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&color=success&logo=mysql)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=success&logo=github)
+![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&color=success&logo=visual-studio-code)
+![](https://img.shields.io/badge/Tool-IntelliJ_IDEA-informational?style=flat&color=success&logo=intellij-idea)
+
+Note: You can also find more technologies and tools on my LinkedIn profile: https://www.linkedin.com/in/alae-eddine-sahbou/
+
+## 📊 Statistics
+[![Your Github Stats](https://github-readme-stats.vercel.app/api?username=alaesahbou&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📚 Education
 
 - **Diplôme d'ingénieur | Ingénieur Informatique**\
