@@ -53,32 +53,48 @@ I'm a passionate software engineer and computer science student based in Morocco
 
 Here are some of the projects I have worked on:
 
+Here are the updated project links:
+
 - **BriefAI - GPT-4 Powered Text Summarizer**\
-  *May 2023 - May 2023*
+  *May 2023 - May 2023*\
+  Website: https://brief-ai.vercel.app/ \
+  GitHub: https://github.com/alaesahbou/BriefAI
 
 - **Twitter clone using React, NextJS, TailwindCSS, Prisma, and MongoDB**\
-  *April 2023 - May 2023*
+  *April 2023 - May 2023*\
+  Website: https://twitter-clone-oxwv.vercel.app/ \
+  GitHub: https://github.com/alaesahbou/twitter-clone
 
 - **ChessAI**\
-  *March 2023 - March 2023*
+  *March 2023 - March 2023*\
+  Website: https://alaesahbou.github.io/chessAI \
+  GitHub: https://github.com/alaesahbou/chessAI
 
 - **NeuroGPT**\
-  *February 2023 - March 2023*
+  *February 2023 - March 2023*\
+  GitHub: https://github.com/alaesahbou/neuroGPT
 
 - **BuscoPhylo - Python Package**\
-  *January 2023 - February 2023*
+  *January 2023 - February 2023*\
+  PyPI: https://pypi.org/project/buscophylo/ \
+  GitHub: https://github.com/alaesahbou/buscophylo
 
 - **EmotionDetector**\
-  *January 2023 - January 2023*
+  *January 2023 - January 2023*\
+  GitHub: https://github.com/alaesahbou/EmotionDetector
 
 - **Text-to-Speech-Converter**\
-  *January 2023 - January 2023*
+  *January 2023 - January 2023*\
+  GitHub: https://github.com/alaesahbou/Text-to-Speech-Converter
 
 - **Buscophylo**\
-  *February 2022 - September 2022*
+  *February 2022 - September 2022*\
+  Website: http://buscophylo.inra.org.ma/ \
+  GitHub: https://github.com/alaesahbou/BuscoPhylo
 
 - **Android application (Jeu X/O)**\
-  *July 2020 - September 2020*
+  *July 2020 - September 2020*\
+  AppGallery: https://appgallery.huawei.com/app/C102354981
 
 ## 🌱 Skills
 
