@@ -26,6 +26,10 @@ I'm a passionate software engineer and computer science student based in Morocco
 
 ## 💼 Experience
 
+### Alx Africa program
+- **Software Engineer**\
+  mai 2023 - mai 2024
+
 ### Plum Networks
 - **Full Stack Developer Manager**\
   *Remote, San Diego, California, USA*\
