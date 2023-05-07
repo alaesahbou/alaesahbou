@@ -32,7 +32,14 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 Note: You can also find more technologies and tools on my LinkedIn profile: https://www.linkedin.com/in/alae-eddine-sahbou/
 
 ## 📊 Statistics
-[![Your Github Stats](https://github-readme-stats.vercel.app/api?username=alaesahbou&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaesahbou&show_icons=true&theme=dark)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alaesahbou&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaesahbou&layout=compact&theme=dark)
+
+</center>
 
 ## 📚 Education
 
