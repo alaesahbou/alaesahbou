@@ -15,6 +15,10 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node-dot-js)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&color=success&logo=mysql)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=success&logo=mongodb)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&color=informational&logo=angular)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=informational&logo=laravel)
+![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&color=informational&logo=symfony)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&color=informational&logo=flutter)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
 ![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&color=success&logo=visual-studio-code)
@@ -91,7 +95,7 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 ## 🌱 Skills
 
 - **Languages**: Python, Java, PHP, C#, JavaScript, SQL, HTML5/CSS3
-- **Frameworks & Tools**: React, Next.js, Node.js, WordPress, BioPython, Docker, Git
+- **Frameworks & Tools**: React, Next.js, Node.js, Angular, Laravel, Symfony, Flutter, WordPress, BioPython, Docker, Git
 - **Soft Skills**: Leadership, Teamwork, Problem-solving, Adaptability
 
 ## 📢 Contact
