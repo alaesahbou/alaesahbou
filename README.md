@@ -19,6 +19,8 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=informational&logo=laravel)
 ![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&color=informational&logo=symfony)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&color=informational&logo=flutter)
+![](https://img.shields.io/badge/Code-JEE-informational?style=flat&color=informational&logo=java)
+![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&color=informational&logo=spring)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=success&logo=git)
 ![](https://img.shields.io/badge/Tool-Visual_Studio_Code-informational?style=flat&color=success&logo=visual-studio-code)
@@ -95,7 +97,7 @@ Here are some of the technologies and tools I'm most comfortable with at the mom
 ## 🌱 Skills
 
 - **Languages**: Python, Java, PHP, C#, JavaScript, SQL, HTML5/CSS3
-- **Frameworks & Tools**: React, Next.js, Node.js, Angular, Laravel, Symfony, Flutter, WordPress, BioPython, Docker, Git
+- **Frameworks & Tools**: React, Next.js, Node.js, Angular, Laravel, Symfony, Flutter, JEE, Spring Boot, WordPress, BioPython, Docker, Git
 - **Soft Skills**: Leadership, Teamwork, Problem-solving, Adaptability
 
 ## 📢 Contact
